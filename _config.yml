@@ -2,14 +2,16 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
-name: Your Name
+# gimenadelr
+name: Gimena del Rio Riande
 
-# Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+#  MA and Summa Cum Laude PhD in Romance Philology (Universidad Complutense de Madrid). I am a reseracher at CONICET (Argentina). My academic interests deal with Digital Humanities, Digital Scholarly Editions, and Open Research Practices in the Humanites. 
+I am the director of the Laboratorio de Humanidades Digitales  HD LAB (CAICYT, CONICET). I am the president of the Asociación Argentina de Humanidades Digitales (AAHD). I direct the first Postgraduate training in Digital Humanities in Argentina (Diplomatura en Humanidades Digitales, UCES) and co-direct the Digital Humanities Master at UNED (Spain). 
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+description: Philology, Text edition and Digital Humanities
+
+# https://twitter.com/gimenadelr/photo
+avatar: https://twitter.com/gimenadelr/photo
 
 #
 # Flags below are optional
@@ -21,12 +23,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Gimena/jekyll-now
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: # Gimena
+  twitter: gimenadelr
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
